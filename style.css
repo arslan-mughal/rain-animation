@@ -17,7 +17,7 @@
 .rain__animation {
     height: 100vh;
     background-image: url('img/rain.png');
-    animation: rain .3s inifinite;
+    animation: rain .3s infinite;
 }
 
 @keyframes rain {
